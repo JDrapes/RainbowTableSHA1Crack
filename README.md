@@ -6,3 +6,5 @@ sha1.java is required as it is called in rainbowTable.java
 rainbowTable.java is the main file, here you can build a rainbow table and then enter hashes and attempt to crack the passwords, alter the parameters to alter search space.
 
 Future project improvement could be to improve the reduction function.
+https://en.wikipedia.org/wiki/Rainbow_table
+Check the wiki.
